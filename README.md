@@ -11,8 +11,8 @@ Manuscript는 웹 페이지를 단계별 매뉴얼로 바꿔주는 브라우저 
 | 시나리오 | 대상 페이지 | 파일 | 스텝 |
 | --- | --- | --- | --- |
 | 랜딩 투어 | 메인 랜딩 페이지 | `tour-en.json`, `tour-ko.json` | 7 |
-| 개인정보 처리방침 | Privacy 페이지 | `privacy-en.json`, `privacy-ko.json` | 6 |
-| 변경 이력 | Changelog 페이지 | `changelog-en.json`, `changelog-ko.json` | 4 |
+| 개인정보 처리방침 | Privacy 페이지 | `privacy/privacy-en.json`, `privacy/privacy-ko.json` | 6 |
+| 변경 이력 | Changelog 페이지 | `changelog/changelog-en.json`, `changelog/changelog-ko.json` | 4 |
 
 - **`SKILL.md`** — 위 시나리오 JSON을 작성·번역·확장하는 방법을 담은 에이전트 스킬 문서입니다. AI 에이전트가 페이지를 분석해 셀렉터를 고르고 내레이션을 작성한 뒤 JSON을 생성하는 절차, 스키마 레퍼런스, 검증 체크리스트가 포함되어 있습니다.
 
